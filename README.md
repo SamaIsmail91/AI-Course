@@ -1,12 +1,4 @@
----
-title: Consumer Complaint AI Classifier
-emoji: 🏦
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-app_file: app.py
-pinned: false
----
+
 
 <h1 align="center">🏦 Consumer Complaint Classification</h1>
 <h3 align="center">End-to-End NLP Pipeline: SimpleRNN · LSTM · GRU · DistilBERT · Gradio</h3>
